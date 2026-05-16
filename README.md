@@ -121,6 +121,3 @@ http://localhost:8501
 
 ---
 
-## Author
-
-Zukisa Nxesi
