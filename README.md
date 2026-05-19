@@ -35,7 +35,7 @@ COS760-RAG-Chatbot/
 ├── app.py
 ├── requirements.txt
 ├── README.md
-└── screenshots/
+
 ```
 
 ---
@@ -120,4 +120,6 @@ http://localhost:8501
 - Source highlighting and citations
 
 ---
+Heres provided screenshot
+<img width="1920" height="1017" alt="Screenshot (162)" src="https://github.com/user-attachments/assets/983e20c7-2feb-4a94-9f73-749a44e37733" />
 
